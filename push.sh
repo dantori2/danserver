@@ -1,3 +1,3 @@
 git add -A
-git commit -am "mi primer push tm"
+git commit -am "mipush mill"
 git push
